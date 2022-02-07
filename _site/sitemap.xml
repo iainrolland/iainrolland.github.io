@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+      <loc>http://localhost:4000/notes/features</loc>
+      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    </url>
+    <url>
       <loc>http://localhost:4000/notes/Hidden-Note</loc>
       <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -13,12 +17,15 @@
       <lastmod>2021-04-15T00:00:00+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/posts/features</loc>
-      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+      <loc>http://localhost:4000/notes/ComeBackSoon</loc>
+      <lastmod>2022-02-07T00:00:00+00:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/posts/how-to</loc>
-      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+      <loc>http://localhost:4000/posts/posts-here</loc>
+      <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+    </url>
+    <url>
+      <loc>http://localhost:4000/2020-03-01-empty.html</loc>
     </url>
     <url>
       <loc>http://localhost:4000/</loc>

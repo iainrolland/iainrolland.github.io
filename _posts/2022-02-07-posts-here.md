@@ -1,7 +1,8 @@
 ---
-title: Jekyll Garden Features
+title: Posts Here...
 ---
 
+<!---
 This theme is a fork of <a href="https://github.com/raghuveerdotnet/simply-jekyll">the Simply Jekyll theme </a>,  which I used for around six months before building this one. Most of the core features, like feed, wiki-links becoming hyperlinks, backlinks, etc., are slightly modified versions of the Simple Jekyll theme. I have tried not to break features from the theme, but I am not sure as I don't use many of them. <a href="https://simply-jekyll.netlify.app/posts/explore">Check Simply Jekyll features here.</a>
 
 ### Note feed
@@ -18,3 +19,4 @@ This theme doesn't support #tags inside the story. Tags using frontend YAML is p
 
 ###  Limitations : Images
 Jekyll doesn't render images or attachments inside collection folders, and it suggests `/assets/img/` to accommodate all images. You can make the entire GitHub repo your Obsidian vault, but I felt it cluttered to see code along with my notes. My notes have significantly fewer images, and hence, for now, I manually paste images to assets and copy relative URLs to Obsidian. (but I am not sure if it's the best way)
+-->
